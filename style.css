@@ -35,20 +35,7 @@ header h1 {
     font-size: 3rem;
     color: #4db5ff;
 }
-.movie-box {
-  display: inline-block; 
-  padding: 10px 20px;
-  border: 2px solid #333; 
-  border-radius: 5px;
-  background-color: #f4f4f4;
-  font-weight: bold; 
-  margin: 10px; 
-}
 
-.container {
-  display: flex;
-  gap: 10px;
-}
 nav {
     
     padding: 10px 0;
